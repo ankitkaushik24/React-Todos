@@ -1,0 +1,5 @@
+.todo-item-container.completed {
+    text-decoration: line-through;
+    text-decoration-color: olive;
+    text-decoration-thickness: 2px;
+}

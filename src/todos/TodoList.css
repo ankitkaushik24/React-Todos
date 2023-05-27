@@ -1,0 +1,12 @@
+.list-container {
+    display: flex;
+    gap: 2rem;
+}
+
+.complete-section h3 {
+    color: green;
+}
+
+.incomplete-section h3 {
+    color: red;
+}
